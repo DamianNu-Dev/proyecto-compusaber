@@ -6,7 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/logo1.png",
     "userInterfaceStyle": "dark",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/logo1.png",
       "resizeMode": "contain",
@@ -25,8 +24,7 @@
     "web": {
       "favicon": "./assets/logo1.png",
       "bundler": "metro",
-      "output": "static",
-      "backgroundColor": "#0F172A",
+      "output": "single",
       "display": "standalone"
     },
     "extra": {
