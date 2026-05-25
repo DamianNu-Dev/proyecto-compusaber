@@ -26,7 +26,8 @@
       "favicon": "./assets/logo1.png",
       "bundler": "metro",
       "output": "static",
-      "backgroundColor": "#0F172A"
+      "backgroundColor": "#0F172A",
+      "display": "standalone"
     },
     "extra": {
       "eas": {
